@@ -1,0 +1,1 @@
+This repository contains a CI pipeline for Yarrow-Mullein Bank. It automatically tests code changes and records the results in GitHub Actions. This gives Ben Secure an audit trail showing who made changes, when they were made, and whether the tests passed or failed.
